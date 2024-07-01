@@ -3,7 +3,7 @@ import axios from "axios"; //api request maker
 import { useEffect, useState, useContext } from 'react'; // to be syncronized
 import { useNavigate } from 'react-router-dom' /*for navigation*/
 import "../App.css"
-import images from '../images/home.png';
+import images from '../images/homeee.jpg';
 import aboutus from '../images/about us.jpg';
 import Navbar from './Navbar';
 import Footer from './Footer';

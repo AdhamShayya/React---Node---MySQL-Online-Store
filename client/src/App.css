@@ -237,14 +237,14 @@ body.light-mode {
 
 /* HOME */
 .circleSection {
-  margin-left: 65%;
+  margin-left: 50%;
   display: flex;
   justify-content: space-around;
   margin-top: var(--navbar-height);
   margin-bottom: 100px;
 }
 .circleSectionn {
-  margin-left: 65%;
+  margin-left: 50%;
   display: flex;
   justify-content: space-around;
   margin-top: 20px;
@@ -396,7 +396,7 @@ body.light-mode {
 }
 
 .light-mode .circleSection {
-  margin-left: 65%;
+  margin-left: 50%;
   display: flex;
   justify-content: space-around;
   margin-top: var(--navbar-height);
